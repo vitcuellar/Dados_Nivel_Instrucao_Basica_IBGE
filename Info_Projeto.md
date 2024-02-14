@@ -18,7 +18,7 @@ conduzidas pelo Instituto.
 
 **[Fontes de Dados]** Os dados estão disponíveis e tratados neste mesmo repositório, salvos no arquivo em csv. 
 
-## Objetivo
+## Objetivos
 
   Os dois principais objetivos deste projeto são: construir um painel gerencial e realizar análises, gerar informação a partir dos dados disponíveis.
 
