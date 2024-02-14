@@ -26,7 +26,7 @@ conduzidas pelo Instituto.
 
 ## 1) Tratamento de dados + Importação no Power BI
 
-  Os dados estavam disponíveis em planilha no site do IBGE, foram convertidas as linhas em colunas e padronizadas os nomes das colunas para facilitar o consumo 
+  Os dados estavam disponíveis em planilha no site do IBGE. Foram convertidas as linhas em colunas e padronizadas os nomes das colunas para facilitar o consumo 
 das informações. Em seguida, o arquivo foi salvo em csv e importado no Power BI. 
 
 ## 2) Relacionamentos no Power BI 
@@ -40,7 +40,7 @@ de Raça/Cor, Sexo e Tempo, que são analisadas simultaneamente em ambas as tabe
 ## 3) Tabela de Medidas 
 
   Como foi decidido priorizar análises de média das taxas de alfabetização e proporção, criou-se uma tabela apenas de medidas que foram utilizadas de forma 
-planejada no painel. As medidas também foram segmentadas para garantir que houvesse a interseccção entre as diversidades analisadas, leia-se como : mulheres brancas, mulheres pretas ou pardas, homens brancos e homens pretos ou pardos. Tal como disposto no início do painel, conforme imagem abaixo:
+planejada no painel. As medidas também foram segmentadas para garantir que houvesse a interseccção entre as diversidades analisadas. Leia-se como : mulheres brancas, mulheres pretas ou pardas, homens brancos e homens pretos ou pardos. Tal como disposto no início do painel, conforme imagem abaixo:
 <br>
 <br>
 <img width="500" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/73e74bd8-0b6a-4558-98c8-3bd94da9dc59">
@@ -48,14 +48,14 @@ planejada no painel. As medidas também foram segmentadas para garantir que houv
 
 ## 4) Filtros 
 
-  Para as análises realizadas, foi definido como principais filtros exatamente as dimensões simultâneas às 2 tabelas fato. Sendo assim:
+  Para as análises realizadas, foram definidos como principais filtros exatamente as dimensões simultâneas às 2 tabelas fato. Sendo assim:
 <br>
 <br>
 <img width="150" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/312cceb6-319e-4842-bfc9-d3a97b9513ca">
 
 ## 5) Resumo Inteligente 
 
-  Também foi aplicado o recurso de Narrativa Inteligente do Power BI, para resumir de forma assertiva as principais informações das principais visões do Painel. Sendo assim, foi definido como importante a comparação das taxas de alfabetização e proporção de pessoas sem instrução ou com fundamental completo na categoria de sexo. O resumo também é alterado conforme os filtros selecionados, o tornando mais funcional. 
+  Também foi aplicado o recurso de Narrativa Inteligente do Power BI, para resumir de forma assertiva as principais informações das principais visões do Painel. Sendo assim, foi definida como importante a comparação das taxas de alfabetização e proporção de pessoas sem instrução ou com fundamental completo na categoria de sexo. O resumo também é alterado conforme os filtros selecionados, o tornando mais funcional. 
 <br>
 
 # 💬 Análise do Painel de Nível de Instrução 
@@ -69,7 +69,7 @@ planejada no painel. As medidas também foram segmentadas para garantir que houv
 
 ## b) Comparação de resultados por Raça/Cor 
 <br>
-  No visão por Raça/Cor, é possível observar que a média da taxa de alfabetização é superior em 7,7 p.p para pessoas brancas. Para o cenário de pessoas com fundamental incompleto ou fundamental completo, o cenário se inverte e a média da proporção é de 37 p.p acima para pretos ou pardos. 
+  Na visão por Raça/Cor, é possível observar que a média da taxa de alfabetização é superior em 7,7 p.p para pessoas brancas. Para o cenário de pessoas com fundamental incompleto ou fundamental completo, o cenário se inverte e a média da proporção é de 37 p.p acima para pretos ou pardos. 
 <br>
 <br>
 <img width="280" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/121d6a97-2b0f-484f-894a-e53a6aaa5adc">
@@ -86,14 +86,14 @@ planejada no painel. As medidas também foram segmentadas para garantir que houv
 Nesse aspecto, algumas hipóteses podem ser levantadas [3]: 
 <br>
 <br>
-<li> Lacuna em oportunidade de estudo para mulheres tendo em vista a associação à tarefas domésticas;
+<li> Lacuna em oportunidade de estudo para mulheres tendo em vista a associação com tarefas domésticas;
 <li> Mercado de trabalho ainda privilegia e valoriza homens;
 <li> Reflexo da estrutura brasileira de desigualdade racial;
 <li> Concentração de analfabetos em faixas etárias superiores a 50 anos, considerando a falta de incentivo à formação no séc. XX;
 <li> Cenário de ofertas de vagas e/ou rede escolar pública ainda em déficit versus a necessidade da população. 
 
 **Um disclaimer que gostaria de adicionar:**
-_Apesar dos dados serem até 2016 entende-se que muito dessa realidade ainda perdura até os dias atuais, por se tratar de um tópico muito pertinente foi realizada a análise por curiosidade sobre o tema também._
+_Apesar dos dados serem até 2016, entende-se que muito dessa realidade ainda perdura até os dias atuais. Por se tratar de um tópico muito pertinente, foi realizada a análise por curiosidade sobre o tema também._
 
 
 # Referências 
