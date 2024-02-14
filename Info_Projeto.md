@@ -64,6 +64,7 @@ planejada no painel. As medidas também foram segmentadas para garantir que houv
 <br>
   A taxa de alfabetização de homens é ligeiramente superior a de mulheres em 0,2 p.p na média dos 4 anos analisados. No caso de pessoas com fundamental incompleto (sem instrução) ou fundamental completo, a média da proporção de homens é 7,6 p.p 
 <br>
+<br>
 <img width="280" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/477c530d-dda2-4174-b96b-d03c1d19dfb3">
 
 ## b) Comparação de resultados por Raça/Cor 
