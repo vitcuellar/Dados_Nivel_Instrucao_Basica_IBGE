@@ -80,8 +80,8 @@ planejada no painel. As medidas também foram segmentadas para garantir que houv
 
 ## d) Validação com pesquisa em literatura 
 <br>
-  Pela própria literatura, são encontradas pesquisas que abordam uma maior tendência de equilíbrio entre os graus de escolaridade para homens e mulheres 
-[1], e para o caso de mulheres brancas versus homens brancos, existir uma ligeira crescente por motivos de acesso à escola e necessidade de adequação ao mercado de trabalho para que estas consigam oportunidades, apesar de não estar em foco o ensino superior.
+  Pela própria literatura são encontradas pesquisas que abordam uma disparidade entre os graus de escolaridade para homens e mulheres 
+[1], e mesmo que para o caso de mulheres brancas versus homens brancos existir uma ligeira crescente por motivos de acesso à escola, não diminui o foco na desigualdade de acesso à escola para homens e mulheres.
   Como discutido desde a década de 90, os problemas estruturais na rede de ensino básico brasileira refletem em taxas como as de alfabetização de pessoas brancas versus pessoas pretas ou pardas, o que comprova tanto os problemas de estrutura quanto de falta de oportunidade que ainda atingem boa parte da população brasileira [2]. 
 Nesse aspecto, algumas hipóteses podem ser levantadas [3]: 
 <br>
