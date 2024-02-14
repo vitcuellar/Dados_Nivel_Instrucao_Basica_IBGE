@@ -22,7 +22,7 @@ conduzidas pelo Instituto.
 
   Os dois principais objetivos deste projeto são: construir um painel gerencial e realizar análises, gerar informação a partir dos dados disponíveis.
 
-# Análise sobre Nível de Instrução Básica no Brasil 
+# Construção do Painel de Nível de Instrução 
 
 ## 1) Tratamento de dados + Importação no Power BI
 
