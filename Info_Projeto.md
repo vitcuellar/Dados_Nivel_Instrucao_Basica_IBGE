@@ -36,23 +36,26 @@ de Raça/Cor, Sexo e Tempo, que são analisadas simultaneamente em ambas as tabe
 <img width="480" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/843607a3-34ce-435a-8eca-97c2c23bfd7d">
 
 ## 3) Tabela de Medidas 
-<br>
+
 Como foi decidido priorizar análises de média das taxas de alfabetização e proporção, criou-se uma tabela apenas de medidas que foram utilizadas de forma 
 planejada no painel. As medidas também foram segmentadas para garantir que houvesse a interseccção entre as diversidades analisadas, leia-se como : mulheres brancas, mulheres pretas ou pardas, homens brancos e homens pretos ou pardos. Tal como disposto no início do painel, conforme imagem abaixo:
-
+<br>
+<br>
 <img width="480" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/73e74bd8-0b6a-4558-98c8-3bd94da9dc59">
 
 
 ## 4) Filtros 
-<br>
-Para as análises realizadas, foi definido como principais filtros exatamente as dimensões simultâneas às 2 tabelas fato. Sendo assim:
 
+Para as análises realizadas, foi definido como principais filtros exatamente as dimensões simultâneas às 2 tabelas fato. Sendo assim:
+<br>
+<br>
 <img width="115" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/312cceb6-319e-4842-bfc9-d3a97b9513ca">
 
 ## 5) Resumo Inteligente 
-<br>
+
 Também foi aplicado o recurso de Narrativa Inteligente do Power BI, para resumir de forma assertiva as principais informações das principais visões do Painel. Sendo assim, foi definido como importante a comparação das taxas de alfabetização e proporção de pessoas sem instrução ou com fundamental completo na categoria de sexo. O resumo também é alterado conforme os filtros selecionados, o tornando mais funcional. 
 <br>
+
 # 💬 Análise do Painel de Nível de Instrução 
 
 ## a) Comparação de resultados por Sexo 
@@ -91,7 +94,9 @@ _Apesar dos dados serem até 2016 entende-se que muito dessa realidade ainda per
 # Referências 
 <br>
 [1] Rosemberg, F.Educação e Gênero no Brasil. Proj.História, São, Paulo, 1994. Disponível em:https://revistas.pucsp.br/revph/article/download/11411/8316
+<br>
 [2] Rosemberg, F.; Piza, E. Analfabetismo, gênero e raça no Brasil. Revista USP, São Paulo, 1996. Disponível em: https://www.revistas.usp.br/revusp/article/download/28368/30226
+<br>
 [3] Haddad, S.; Silveira, F. Analfabetismo entre Jovens e Adultos no Brasil. Revista Brasileira de Alfabetização - ABALF, Espírito Santo, dez/2015. Disponível em: https://revistaabalf.com.br/index.html/index.php/rabalf/article/view/81/64
 
 
