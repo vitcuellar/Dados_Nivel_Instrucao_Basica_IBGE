@@ -15,7 +15,7 @@ Neste projeto, foram utilizados as seguintes ferramentas:
 <li> Power BI: https://powerbi.microsoft.com/ </li>
 <li> Portal do IBGE : https://www.ibge.gov.br/acesso-informacao/estatisticas.html </li>
 <br>
-[Fontes de Dados] Os dados estão disponíveis e tratados neste mesmo repositório, salvos no arquivo em csv. 
+**[Fontes de Dados]** Os dados estão disponíveis e tratados neste mesmo repositório, salvos no arquivo em csv. 
 
 ## Objetivo
 
