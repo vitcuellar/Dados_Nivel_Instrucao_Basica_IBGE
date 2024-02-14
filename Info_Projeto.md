@@ -33,7 +33,8 @@ das informações. Em seguida, o arquivo foi salvo em csv e importado no Power B
 
   Foi aplicado o modelo de Star-Schema, o qual foi construído a partir de 2 tabelas fato, ou seja, 2 tabelas de eventos e 3 tabelas dimensões a partir das dimensões 
 de Raça/Cor, Sexo e Tempo, que são analisadas simultaneamente em ambas as tabelas fato. O modelo está evidenciado na imagem abaixo:
-
+<br>
+<br>
 <img width="500" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/843607a3-34ce-435a-8eca-97c2c23bfd7d">
 
 ## 3) Tabela de Medidas 
@@ -68,6 +69,7 @@ planejada no painel. As medidas também foram segmentadas para garantir que houv
 ## b) Comparação de resultados por Raça/Cor 
 <br>
   No visão por Raça/Cor, é possível observar que a média da taxa de alfabetização é superior em 7,7 p.p para pessoas brancas. Para o cenário de pessoas com fundamental incompleto ou fundamental completo, o cenário se inverte e a média da proporção é de 37 p.p acima para pretos ou pardos. 
+<br>
 <br>
 <img width="280" alt="image" src="https://github.com/vitcuellar/Dados_Nivel_Instrucao_Basica_IBGE/assets/146594135/121d6a97-2b0f-484f-894a-e53a6aaa5adc">
 
