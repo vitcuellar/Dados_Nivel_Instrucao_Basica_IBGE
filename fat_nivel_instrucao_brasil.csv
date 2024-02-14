@@ -1,0 +1,161 @@
+periodo;classificacao;proporcao;cv%;raca_cor;sexo;faixa_etaria
+2012;Sem instrução e ensino fundamental incompleto;26,3 ;1,3 ;Brancos;Homens;25 a 44 anos de idade
+2012;Ensino fundamental completo e ensino médio incompleto;15,5 ;1,7 ;Brancos;Homens;25 a 44 anos de idade
+2012;Ensino médio completo e ensino superior incompleto;39,5 ;1,0 ;Brancos;Homens;25 a 44 anos de idade
+2012;Ensino superior completo;18,6 ;2,2 ;Brancos;Homens;25 a 44 anos de idade
+2012;Sem instrução e ensino fundamental incompleto;51,4 ;0,9 ;Brancos;Homens;25 a 44 anos de idade
+2012;Ensino fundamental completo e ensino médio incompleto;12,3 ;2,0 ;Brancos;Homens;25 a 44 anos de idade
+2012;Ensino médio completo e ensino superior incompleto;21,1 ;1,5 ;Brancos;Homens;25 a 44 anos de idade
+2012;Ensino superior completo;15,2 ;2,5 ;Brancos;Homens;25 a 44 anos de idade
+2012;Sem instrução e ensino fundamental incompleto;42,9 ;0,8 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Ensino fundamental completo e ensino médio incompleto;18,1 ;1,3 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Ensino médio completo e ensino superior incompleto;33,0 ;1,0 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Ensino superior completo;5,9 ;2,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Sem instrução e ensino fundamental incompleto;69,8 ;0,5 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Ensino fundamental completo e ensino médio incompleto;11,6 ;1,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Ensino médio completo e ensino superior incompleto;14,4 ;1,8 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Ensino superior completo;4,2 ;3,4 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2012;Sem instrução e ensino fundamental incompleto;21,4 ;1,4 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Ensino fundamental completo e ensino médio incompleto;14,2 ;1,7 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Ensino médio completo e ensino superior incompleto;39,2 ;0,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Ensino superior completo;25,2 ;1,7 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Sem instrução e ensino fundamental incompleto;53,3 ;0,8 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Ensino fundamental completo e ensino médio incompleto;11,2 ;1,8 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Ensino médio completo e ensino superior incompleto;20,0 ;1,4 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Ensino superior completo;15,5 ;2,1 ;Brancos;Mulheres;25 a 44 anos de idade
+2012;Sem instrução e ensino fundamental incompleto;35,7 ;0,9 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2012;Ensino fundamental completo e ensino médio incompleto;17,4 ;1,3 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2012;Ensino médio completo e ensino superior incompleto;37,1 ;0,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2012;Ensino superior completo;9,8 ;2,2 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2012;Sem instrução e ensino fundamental incompleto;69,0 ;0,5 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2012;Ensino fundamental completo e ensino médio incompleto;10,9 ;1,9 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2012;Ensino médio completo e ensino superior incompleto;14,5 ;1,6 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2012;Ensino superior completo;5,6 ;2,7 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Sem instrução e ensino fundamental incompleto;24,4 ;1,4 ;Brancos;Homens;25 a 44 anos de idade
+2013;Ensino fundamental completo e ensino médio incompleto;15,4 ;1,8 ;Brancos;Homens;25 a 44 anos de idade
+2013;Ensino médio completo e ensino superior incompleto;39,6 ;1,0 ;Brancos;Homens;25 a 44 anos de idade
+2013;Ensino superior completo;20,7 ;2,0 ;Brancos;Homens;25 a 44 anos de idade
+2013;Sem instrução e ensino fundamental incompleto;50,2 ;0,9 ;Brancos;Homens;25 a 44 anos de idade
+2013;Ensino fundamental completo e ensino médio incompleto;12,1 ;2,0 ;Brancos;Homens;25 a 44 anos de idade
+2013;Ensino médio completo e ensino superior incompleto;21,8 ;1,5 ;Brancos;Homens;25 a 44 anos de idade
+2013;Ensino superior completo;15,8 ;2,6 ;Brancos;Homens;25 a 44 anos de idade
+2013;Sem instrução e ensino fundamental incompleto;41,4 ;0,8 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Ensino fundamental completo e ensino médio incompleto;17,9 ;1,3 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Ensino médio completo e ensino superior incompleto;34,3 ;0,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Ensino superior completo;6,5 ;2,6 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Sem instrução e ensino fundamental incompleto;69,2 ;0,5 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Ensino fundamental completo e ensino médio incompleto;11,4 ;1,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Ensino médio completo e ensino superior incompleto;15,1 ;1,7 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Ensino superior completo;4,3 ;3,3 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2013;Sem instrução e ensino fundamental incompleto;19,6 ;1,5 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Ensino fundamental completo e ensino médio incompleto;13,5 ;1,8 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Ensino médio completo e ensino superior incompleto;40,7 ;0,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Ensino superior completo;26,2 ;1,6 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Sem instrução e ensino fundamental incompleto;51,7 ;0,8 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Ensino fundamental completo e ensino médio incompleto;11,5 ;1,8 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Ensino médio completo e ensino superior incompleto;21,0 ;1,3 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Ensino superior completo;15,7 ;2,1 ;Brancos;Mulheres;25 a 44 anos de idade
+2013;Sem instrução e ensino fundamental incompleto;34,3 ;0,9 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Ensino fundamental completo e ensino médio incompleto;17,2 ;1,4 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Ensino médio completo e ensino superior incompleto;38,2 ;0,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Ensino superior completo;10,3 ;2,1 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Sem instrução e ensino fundamental incompleto;68,2 ;0,5 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Ensino fundamental completo e ensino médio incompleto;10,5 ;1,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Ensino médio completo e ensino superior incompleto;15,2 ;1,6 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2013;Ensino superior completo;6,1 ;2,7 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Sem instrução e ensino fundamental incompleto;22,0 ;1,6 ;Brancos;Homens;25 a 44 anos de idade
+2014;Ensino fundamental completo e ensino médio incompleto;15,6 ;1,8 ;Brancos;Homens;25 a 44 anos de idade
+2014;Ensino médio completo e ensino superior incompleto;41,1 ;1,0 ;Brancos;Homens;25 a 44 anos de idade
+2014;Ensino superior completo;21,2 ;2,2 ;Brancos;Homens;25 a 44 anos de idade
+2014;Sem instrução e ensino fundamental incompleto;49,4 ;0,9 ;Brancos;Homens;25 a 44 anos de idade
+2014;Ensino fundamental completo e ensino médio incompleto;12,6 ;2,0 ;Brancos;Homens;25 a 44 anos de idade
+2014;Ensino médio completo e ensino superior incompleto;21,8 ;1,4 ;Brancos;Homens;25 a 44 anos de idade
+2014;Ensino superior completo;16,2 ;2,5 ;Brancos;Homens;25 a 44 anos de idade
+2014;Sem instrução e ensino fundamental incompleto;38,8 ;0,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Ensino fundamental completo e ensino médio incompleto;18,7 ;1,3 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Ensino médio completo e ensino superior incompleto;35,7 ;0,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Ensino superior completo;6,8 ;2,6 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Sem instrução e ensino fundamental incompleto;67,5 ;0,5 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Ensino fundamental completo e ensino médio incompleto;12,1 ;1,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Ensino médio completo e ensino superior incompleto;15,7 ;1,6 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Ensino superior completo;4,8 ;3,1 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2014;Sem instrução e ensino fundamental incompleto;17,4 ;1,6 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Ensino fundamental completo e ensino médio incompleto;13,7 ;1,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Ensino médio completo e ensino superior incompleto;41,8 ;0,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Ensino superior completo;27,1 ;1,6 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Sem instrução e ensino fundamental incompleto;49,7 ;0,8 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Ensino fundamental completo e ensino médio incompleto;12,3 ;1,8 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Ensino médio completo e ensino superior incompleto;21,5 ;1,4 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Ensino superior completo;16,5 ;2,2 ;Brancos;Mulheres;25 a 44 anos de idade
+2014;Sem instrução e ensino fundamental incompleto;31,8 ;0,9 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Ensino fundamental completo e ensino médio incompleto;17,5 ;1,3 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Ensino médio completo e ensino superior incompleto;40,0 ;0,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Ensino superior completo;10,7 ;1,9 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Sem instrução e ensino fundamental incompleto;66,7 ;0,5 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Ensino fundamental completo e ensino médio incompleto;11,3 ;1,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Ensino médio completo e ensino superior incompleto;15,6 ;1,6 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2014;Ensino superior completo;6,3 ;2,7 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Sem instrução e ensino fundamental incompleto;21,1 ;1,6 ;Brancos;Homens;25 a 44 anos de idade
+2015;Ensino fundamental completo e ensino médio incompleto;15,2 ;1,9 ;Brancos;Homens;25 a 44 anos de idade
+2015;Ensino médio completo e ensino superior incompleto;41,0 ;1,0 ;Brancos;Homens;25 a 44 anos de idade
+2015;Ensino superior completo;22,6 ;2,0 ;Brancos;Homens;25 a 44 anos de idade
+2015;Sem instrução e ensino fundamental incompleto;47,9 ;1,0 ;Brancos;Homens;25 a 44 anos de idade
+2015;Ensino fundamental completo e ensino médio incompleto;12,8 ;1,9 ;Brancos;Homens;25 a 44 anos de idade
+2015;Ensino médio completo e ensino superior incompleto;22,2 ;1,5 ;Brancos;Homens;25 a 44 anos de idade
+2015;Ensino superior completo;17,1 ;2,5 ;Brancos;Homens;25 a 44 anos de idade
+2015;Sem instrução e ensino fundamental incompleto;38,2 ;0,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Ensino fundamental completo e ensino médio incompleto;18,3 ;1,3 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Ensino médio completo e ensino superior incompleto;35,8 ;0,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Ensino superior completo;7,8 ;2,6 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Sem instrução e ensino fundamental incompleto;66,6 ;0,5 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Ensino fundamental completo e ensino médio incompleto;11,9 ;1,8 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Ensino médio completo e ensino superior incompleto;16,3 ;1,6 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Ensino superior completo;5,2 ;3,1 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2015;Sem instrução e ensino fundamental incompleto;16,0 ;1,7 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Ensino fundamental completo e ensino médio incompleto;13,3 ;2,1 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Ensino médio completo e ensino superior incompleto;41,4 ;1,0 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Ensino superior completo;29,3 ;1,6 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Sem instrução e ensino fundamental incompleto;48,6 ;0,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Ensino fundamental completo e ensino médio incompleto;12,1 ;1,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Ensino médio completo e ensino superior incompleto;21,7 ;1,3 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Ensino superior completo;17,5 ;2,0 ;Brancos;Mulheres;25 a 44 anos de idade
+2015;Sem instrução e ensino fundamental incompleto;29,7 ;1,0 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Ensino fundamental completo e ensino médio incompleto;16,9 ;1,4 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Ensino médio completo e ensino superior incompleto;41,2 ;0,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Ensino superior completo;12,1 ;1,9 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Sem instrução e ensino fundamental incompleto;64,9 ;0,5 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Ensino fundamental completo e ensino médio incompleto;11,2 ;1,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Ensino médio completo e ensino superior incompleto;17,0 ;1,5 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2015;Ensino superior completo;7,0 ;2,6 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Sem instrução e ensino fundamental incompleto;20,4 ;1,7 ;Brancos;Homens;25 a 44 anos de idade
+2016;Ensino fundamental completo e ensino médio incompleto;13,4 ;2,1 ;Brancos;Homens;25 a 44 anos de idade
+2016;Ensino médio completo e ensino superior incompleto;42,1 ;1,1 ;Brancos;Homens;25 a 44 anos de idade
+2016;Ensino superior completo;24,2 ;2,2 ;Brancos;Homens;25 a 44 anos de idade
+2016;Sem instrução e ensino fundamental incompleto;47,1 ;1,0 ;Brancos;Homens;25 a 44 anos de idade
+2016;Ensino fundamental completo e ensino médio incompleto;12,0 ;2,1 ;Brancos;Homens;25 a 44 anos de idade
+2016;Ensino médio completo e ensino superior incompleto;23,1 ;1,4 ;Brancos;Homens;25 a 44 anos de idade
+2016;Ensino superior completo;17,8 ;2,6 ;Brancos;Homens;25 a 44 anos de idade
+2016;Sem instrução e ensino fundamental incompleto;36,9 ;0,9 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Ensino fundamental completo e ensino médio incompleto;17,4 ;1,4 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Ensino médio completo e ensino superior incompleto;37,1 ;1,0 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Ensino superior completo;8,7 ;2,7 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Sem instrução e ensino fundamental incompleto;66,5 ;0,5 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Ensino fundamental completo e ensino médio incompleto;11,1 ;2,0 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Ensino médio completo e ensino superior incompleto;17,2 ;1,5 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Ensino superior completo;5,2 ;3,0 ;Pretos ou pardos;Homens;45 anos ou mais de idade
+2016;Sem instrução e ensino fundamental incompleto;15,4 ;1,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Ensino fundamental completo e ensino médio incompleto;12,0 ;2,0 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Ensino médio completo e ensino superior incompleto;41,7 ;1,0 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Ensino superior completo;31,0 ;1,7 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Sem instrução e ensino fundamental incompleto;48,1 ;0,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Ensino fundamental completo e ensino médio incompleto;12,0 ;1,9 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Ensino médio completo e ensino superior incompleto;22,1 ;1,3 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Ensino superior completo;17,8 ;2,1 ;Brancos;Mulheres;25 a 44 anos de idade
+2016;Sem instrução e ensino fundamental incompleto;29,4 ;1,0 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Ensino fundamental completo e ensino médio incompleto;16,1 ;1,4 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Ensino médio completo e ensino superior incompleto;41,1 ;0,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Ensino superior completo;13,4 ;2,2 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Sem instrução e ensino fundamental incompleto;64,5 ;0,5 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Ensino fundamental completo e ensino médio incompleto;10,6 ;1,8 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Ensino médio completo e ensino superior incompleto;17,4 ;1,4 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade
+2016;Ensino superior completo;7,5 ;2,4 ;Pretos ou pardos;Mulheres;45 anos ou mais de idade

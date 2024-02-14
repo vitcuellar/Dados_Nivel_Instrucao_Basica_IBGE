@@ -1,0 +1,301 @@
+periodo;regiao;taxa;CV%;raca_cor;sexo;faixa_etaria
+2012;Norte;97,5;0,6;Brancos;Homens;15 a 24 anos de idade
+2012;Nordeste;96,6;0,4;Brancos;Homens;15 a 24 anos de idade
+2012;Sudeste;99,2;0,2;Brancos;Homens;15 a 24 anos de idade
+2012;Sul;99,4;0,1;Brancos;Homens;15 a 24 anos de idade
+2012;Centro-Oeste;99,2;0,3;Brancos;Homens;15 a 24 anos de idade
+2012;Norte;92,4;0,7;Brancos;Homens;25 a 64 anos de idade
+2012;Nordeste;85,3;0,6;Brancos;Homens;25 a 64 anos de idade
+2012;Sudeste;97,7;0,2;Brancos;Homens;25 a 64 anos de idade
+2012;Sul;97,4;0,2;Brancos;Homens;25 a 64 anos de idade
+2012;Centro-Oeste;96,5;0,3;Brancos;Homens;25 a 64 anos de idade
+2012;Norte;67,4;4,6;Brancos;Homens;65 anos ou mais de idade
+2012;Nordeste;57,4;2,6;Brancos;Homens;65 anos ou mais de idade
+2012;Sudeste;90,1;0,8;Brancos;Homens;65 anos ou mais de idade
+2012;Sul;88,1;0,9;Brancos;Homens;65 anos ou mais de idade
+2012;Centro-Oeste;79,5;2,3;Brancos;Homens;65 anos ou mais de idade
+2012;Norte;97,8;0,3;Pretos ou pardos;Homens;15 a 24 anos de idade
+2012;Nordeste;95,7;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2012;Sudeste;98,9;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2012;Sul;98,4;0,4;Pretos ou pardos;Homens;15 a 24 anos de idade
+2012;Centro-Oeste;99,2;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2012;Norte;87,9;0,5;Pretos ou pardos;Homens;25 a 64 anos de idade
+2012;Nordeste;78,6;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2012;Sudeste;94,6;0,3;Pretos ou pardos;Homens;25 a 64 anos de idade
+2012;Sul;92,9;0,5;Pretos ou pardos;Homens;25 a 64 anos de idade
+2012;Centro-Oeste;92,8;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2012;Norte;60,6;3;Pretos ou pardos;Homens;65 anos ou mais de idade
+2012;Nordeste;45,5;2,2;Pretos ou pardos;Homens;65 anos ou mais de idade
+2012;Sudeste;76,4;1,6;Pretos ou pardos;Homens;65 anos ou mais de idade
+2012;Sul;69,6;3,4;Pretos ou pardos;Homens;65 anos ou mais de idade
+2012;Centro-Oeste;62,6;3,2;Pretos ou pardos;Homens;65 anos ou mais de idade
+2012;Norte;99;0,3;Brancos;Mulheres;15 a 24 anos de idade
+2012;Nordeste;99,1;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2012;Sudeste;99,6;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2012;Sul;99,4;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2012;Centro-Oeste;99,6;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2012;Norte;94,2;0,5;Brancos;Mulheres;25 a 64 anos de idade
+2012;Nordeste;89,3;0,4;Brancos;Mulheres;25 a 64 anos de idade
+2012;Sudeste;97,5;0,2;Brancos;Mulheres;25 a 64 anos de idade
+2012;Sul;97,1;0,2;Brancos;Mulheres;25 a 64 anos de idade
+2012;Centro-Oeste;96,4;0,3;Brancos;Mulheres;25 a 64 anos de idade
+2012;Norte;72,2;3,7;Brancos;Mulheres;65 anos ou mais de idade
+2012;Nordeste;64,2;2;Brancos;Mulheres;65 anos ou mais de idade
+2012;Sudeste;84,7;0,9;Brancos;Mulheres;65 anos ou mais de idade
+2012;Sul;84,5;0,9;Brancos;Mulheres;65 anos ou mais de idade
+2012;Centro-Oeste;78,3;2,1;Brancos;Mulheres;65 anos ou mais de idade
+2012;Norte;98,6;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2012;Nordeste;98,2;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2012;Sudeste;99,5;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2012;Sul;98,9;0,4;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2012;Centro-Oeste;99,4;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2012;Norte;91;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2012;Nordeste;83,6;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2012;Sudeste;94,1;0,2;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2012;Sul;91,5;0,6;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2012;Centro-Oeste;93,6;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2012;Norte;58,6;3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2012;Nordeste;45,6;2;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2012;Sudeste;70,1;1,7;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2012;Sul;60,7;3,9;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2012;Centro-Oeste;61,7;3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2013;Norte;98,3;0,4;Brancos;Homens;15 a 24 anos de idade
+2013;Nordeste;97,2;0,3;Brancos;Homens;15 a 24 anos de idade
+2013;Sudeste;99,4;0,1;Brancos;Homens;15 a 24 anos de idade
+2013;Sul;99,2;0,2;Brancos;Homens;15 a 24 anos de idade
+2013;Centro-Oeste;99;0,4;Brancos;Homens;15 a 24 anos de idade
+2013;Norte;93,7;0,6;Brancos;Homens;25 a 64 anos de idade
+2013;Nordeste;84,7;0,6;Brancos;Homens;25 a 64 anos de idade
+2013;Sudeste;97,8;0,1;Brancos;Homens;25 a 64 anos de idade
+2013;Sul;97,6;0,1;Brancos;Homens;25 a 64 anos de idade
+2013;Centro-Oeste;96,1;0,3;Brancos;Homens;25 a 64 anos de idade
+2013;Norte;72,4;3,9;Brancos;Homens;65 anos ou mais de idade
+2013;Nordeste;60,9;2,3;Brancos;Homens;65 anos ou mais de idade
+2013;Sudeste;91,2;0,7;Brancos;Homens;65 anos ou mais de idade
+2013;Sul;88,9;0,8;Brancos;Homens;65 anos ou mais de idade
+2013;Centro-Oeste;84,6;1,8;Brancos;Homens;65 anos ou mais de idade
+2013;Norte;98;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2013;Nordeste;96,1;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2013;Sudeste;99,3;0,1;Pretos ou pardos;Homens;15 a 24 anos de idade
+2013;Sul;98,6;0,4;Pretos ou pardos;Homens;15 a 24 anos de idade
+2013;Centro-Oeste;99;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2013;Norte;88;0,5;Pretos ou pardos;Homens;25 a 64 anos de idade
+2013;Nordeste;79;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2013;Sudeste;94,7;0,2;Pretos ou pardos;Homens;25 a 64 anos de idade
+2013;Sul;93,9;0,5;Pretos ou pardos;Homens;25 a 64 anos de idade
+2013;Centro-Oeste;92,4;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2013;Norte;58,5;2,7;Pretos ou pardos;Homens;65 anos ou mais de idade
+2013;Nordeste;46,9;2;Pretos ou pardos;Homens;65 anos ou mais de idade
+2013;Sudeste;79,1;1,4;Pretos ou pardos;Homens;65 anos ou mais de idade
+2013;Sul;69,3;3,4;Pretos ou pardos;Homens;65 anos ou mais de idade
+2013;Centro-Oeste;70,8;2,5;Pretos ou pardos;Homens;65 anos ou mais de idade
+2013;Norte;99,5;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2013;Nordeste;98,9;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2013;Sudeste;99,6;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2013;Sul;99,6;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2013;Centro-Oeste;99,7;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2013;Norte;95;0,5;Brancos;Mulheres;25 a 64 anos de idade
+2013;Nordeste;90,3;0,4;Brancos;Mulheres;25 a 64 anos de idade
+2013;Sudeste;97,8;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2013;Sul;97,5;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2013;Centro-Oeste;97,4;0,3;Brancos;Mulheres;25 a 64 anos de idade
+2013;Norte;77,4;3;Brancos;Mulheres;65 anos ou mais de idade
+2013;Nordeste;63,3;2;Brancos;Mulheres;65 anos ou mais de idade
+2013;Sudeste;86,4;0,8;Brancos;Mulheres;65 anos ou mais de idade
+2013;Sul;85,9;0,8;Brancos;Mulheres;65 anos ou mais de idade
+2013;Centro-Oeste;79;2,1;Brancos;Mulheres;65 anos ou mais de idade
+2013;Norte;98,5;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2013;Nordeste;98,5;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2013;Sudeste;99,6;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2013;Sul;99,1;0,3;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2013;Centro-Oeste;99,4;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2013;Norte;90,3;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2013;Nordeste;83,9;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2013;Sudeste;95,2;0,2;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2013;Sul;92,5;0,5;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2013;Centro-Oeste;94;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2013;Norte;57,2;3,3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2013;Nordeste;46,5;1,9;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2013;Sudeste;70;1,7;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2013;Sul;67,1;3,2;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2013;Centro-Oeste;58,4;3,2;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2014;Norte;98,1;0,6;Brancos;Homens;15 a 24 anos de idade
+2014;Nordeste;98,1;0,3;Brancos;Homens;15 a 24 anos de idade
+2014;Sudeste;99,4;0,1;Brancos;Homens;15 a 24 anos de idade
+2014;Sul;99,3;0,1;Brancos;Homens;15 a 24 anos de idade
+2014;Centro-Oeste;99,7;0,2;Brancos;Homens;15 a 24 anos de idade
+2014;Norte;93,4;0,6;Brancos;Homens;25 a 64 anos de idade
+2014;Nordeste;86,2;0,5;Brancos;Homens;25 a 64 anos de idade
+2014;Sudeste;97,9;0,1;Brancos;Homens;25 a 64 anos de idade
+2014;Sul;97,6;0,1;Brancos;Homens;25 a 64 anos de idade
+2014;Centro-Oeste;96,5;0,3;Brancos;Homens;25 a 64 anos de idade
+2014;Norte;72,9;4;Brancos;Homens;65 anos ou mais de idade
+2014;Nordeste;62;2,4;Brancos;Homens;65 anos ou mais de idade
+2014;Sudeste;92,3;0,6;Brancos;Homens;65 anos ou mais de idade
+2014;Sul;88,1;0,8;Brancos;Homens;65 anos ou mais de idade
+2014;Centro-Oeste;81,9;2,1;Brancos;Homens;65 anos ou mais de idade
+2014;Norte;98,4;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2014;Nordeste;96,7;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2014;Sudeste;99,2;0,1;Pretos ou pardos;Homens;15 a 24 anos de idade
+2014;Sul;98,9;0,3;Pretos ou pardos;Homens;15 a 24 anos de idade
+2014;Centro-Oeste;99,2;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2014;Norte;88,9;0,5;Pretos ou pardos;Homens;25 a 64 anos de idade
+2014;Nordeste;80,1;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2014;Sudeste;95,2;0,2;Pretos ou pardos;Homens;25 a 64 anos de idade
+2014;Sul;94,4;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2014;Centro-Oeste;93,4;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2014;Norte;61,9;2,5;Pretos ou pardos;Homens;65 anos ou mais de idade
+2014;Nordeste;48,3;2,1;Pretos ou pardos;Homens;65 anos ou mais de idade
+2014;Sudeste;77,1;1,6;Pretos ou pardos;Homens;65 anos ou mais de idade
+2014;Sul;73,4;2,9;Pretos ou pardos;Homens;65 anos ou mais de idade
+2014;Centro-Oeste;67,2;2,7;Pretos ou pardos;Homens;65 anos ou mais de idade
+2014;Norte;99,3;0,3;Brancos;Mulheres;15 a 24 anos de idade
+2014;Nordeste;98,9;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2014;Sudeste;99,4;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2014;Sul;99,5;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2014;Centro-Oeste;99,7;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2014;Norte;95,4;0,4;Brancos;Mulheres;25 a 64 anos de idade
+2014;Nordeste;91,1;0,4;Brancos;Mulheres;25 a 64 anos de idade
+2014;Sudeste;98;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2014;Sul;97,8;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2014;Centro-Oeste;97,1;0,3;Brancos;Mulheres;25 a 64 anos de idade
+2014;Norte;71,3;3,5;Brancos;Mulheres;65 anos ou mais de idade
+2014;Nordeste;63,8;2;Brancos;Mulheres;65 anos ou mais de idade
+2014;Sudeste;87;0,8;Brancos;Mulheres;65 anos ou mais de idade
+2014;Sul;86;0,8;Brancos;Mulheres;65 anos ou mais de idade
+2014;Centro-Oeste;81,7;1,7;Brancos;Mulheres;65 anos ou mais de idade
+2014;Norte;98,7;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2014;Nordeste;98,5;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2014;Sudeste;99,4;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2014;Sul;99,1;0,3;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2014;Centro-Oeste;99,6;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2014;Norte;91,4;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2014;Nordeste;85,8;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2014;Sudeste;95,1;0,2;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2014;Sul;93,2;0,5;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2014;Centro-Oeste;94;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2014;Norte;59,8;2,6;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2014;Nordeste;49,6;1,9;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2014;Sudeste;71,4;1,6;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2014;Sul;63,8;3,6;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2014;Centro-Oeste;62,3;3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2015;Norte;98,1;0,7;Brancos;Homens;15 a 24 anos de idade
+2015;Nordeste;97;0,4;Brancos;Homens;15 a 24 anos de idade
+2015;Sudeste;99,4;0,1;Brancos;Homens;15 a 24 anos de idade
+2015;Sul;99,1;0,2;Brancos;Homens;15 a 24 anos de idade
+2015;Centro-Oeste;99,2;0,3;Brancos;Homens;15 a 24 anos de idade
+2015;Norte;93,9;0,6;Brancos;Homens;25 a 64 anos de idade
+2015;Nordeste;86,8;0,5;Brancos;Homens;25 a 64 anos de idade
+2015;Sudeste;97,8;0,2;Brancos;Homens;25 a 64 anos de idade
+2015;Sul;98;0,1;Brancos;Homens;25 a 64 anos de idade
+2015;Centro-Oeste;96,7;0,3;Brancos;Homens;25 a 64 anos de idade
+2015;Norte;76,7;3;Brancos;Homens;65 anos ou mais de idade
+2015;Nordeste;61,8;2,4;Brancos;Homens;65 anos ou mais de idade
+2015;Sudeste;92,5;0,6;Brancos;Homens;65 anos ou mais de idade
+2015;Sul;90,6;0,7;Brancos;Homens;65 anos ou mais de idade
+2015;Centro-Oeste;82,1;2;Brancos;Homens;65 anos ou mais de idade
+2015;Norte;98,3;0,3;Pretos ou pardos;Homens;15 a 24 anos de idade
+2015;Nordeste;96,7;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2015;Sudeste;99;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2015;Sul;99,1;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2015;Centro-Oeste;99;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2015;Norte;89;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2015;Nordeste;81,2;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2015;Sudeste;95,5;0,2;Pretos ou pardos;Homens;25 a 64 anos de idade
+2015;Sul;94,7;0,5;Pretos ou pardos;Homens;25 a 64 anos de idade
+2015;Centro-Oeste;93,4;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2015;Norte;61,9;2,9;Pretos ou pardos;Homens;65 anos ou mais de idade
+2015;Nordeste;48,7;2;Pretos ou pardos;Homens;65 anos ou mais de idade
+2015;Sudeste;80,7;1,3;Pretos ou pardos;Homens;65 anos ou mais de idade
+2015;Sul;73,2;3;Pretos ou pardos;Homens;65 anos ou mais de idade
+2015;Centro-Oeste;67,2;2,9;Pretos ou pardos;Homens;65 anos ou mais de idade
+2015;Norte;99,5;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2015;Nordeste;98,9;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2015;Sudeste;99,5;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2015;Sul;99,5;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2015;Centro-Oeste;99,5;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2015;Norte;94,9;0,5;Brancos;Mulheres;25 a 64 anos de idade
+2015;Nordeste;91;0,4;Brancos;Mulheres;25 a 64 anos de idade
+2015;Sudeste;98,1;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2015;Sul;98;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2015;Centro-Oeste;97;0,3;Brancos;Mulheres;25 a 64 anos de idade
+2015;Norte;71,2;4;Brancos;Mulheres;65 anos ou mais de idade
+2015;Nordeste;66,1;2;Brancos;Mulheres;65 anos ou mais de idade
+2015;Sudeste;86,9;0,8;Brancos;Mulheres;65 anos ou mais de idade
+2015;Sul;87,7;0,7;Brancos;Mulheres;65 anos ou mais de idade
+2015;Centro-Oeste;80,7;1,9;Brancos;Mulheres;65 anos ou mais de idade
+2015;Norte;99;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2015;Nordeste;98,5;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2015;Sudeste;99,4;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2015;Sul;99,7;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2015;Centro-Oeste;99,7;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2015;Norte;91,2;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2015;Nordeste;86,5;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2015;Sudeste;95,5;0,2;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2015;Sul;94,4;0,5;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2015;Centro-Oeste;94,6;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2015;Norte;60,6;2,9;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2015;Nordeste;49,7;1,8;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2015;Sudeste;75,5;1,3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2015;Sul;62,8;3,8;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2015;Centro-Oeste;63,4;3,1;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2016;Norte;99;0,3;Brancos;Homens;15 a 24 anos de idade
+2016;Nordeste;98,3;0,3;Brancos;Homens;15 a 24 anos de idade
+2016;Sudeste;99,5;0,2;Brancos;Homens;15 a 24 anos de idade
+2016;Sul;99,2;0,2;Brancos;Homens;15 a 24 anos de idade
+2016;Centro-Oeste;99,4;0,2;Brancos;Homens;15 a 24 anos de idade
+2016;Norte;93,5;0,6;Brancos;Homens;25 a 64 anos de idade
+2016;Nordeste;87,8;0,5;Brancos;Homens;25 a 64 anos de idade
+2016;Sudeste;98,4;0,2;Brancos;Homens;25 a 64 anos de idade
+2016;Sul;98,1;0,1;Brancos;Homens;25 a 64 anos de idade
+2016;Centro-Oeste;96,7;0,3;Brancos;Homens;25 a 64 anos de idade
+2016;Norte;75,3;3,6;Brancos;Homens;65 anos ou mais de idade
+2016;Nordeste;67,1;2,1;Brancos;Homens;65 anos ou mais de idade
+2016;Sudeste;92,1;0,7;Brancos;Homens;65 anos ou mais de idade
+2016;Sul;89,9;0,7;Brancos;Homens;65 anos ou mais de idade
+2016;Centro-Oeste;85,5;1,8;Brancos;Homens;65 anos ou mais de idade
+2016;Norte;98,3;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2016;Nordeste;97,3;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2016;Sudeste;99,1;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2016;Sul;99,4;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2016;Centro-Oeste;99,5;0,2;Pretos ou pardos;Homens;15 a 24 anos de idade
+2016;Norte;90,1;0,5;Pretos ou pardos;Homens;25 a 64 anos de idade
+2016;Nordeste;81,8;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2016;Sudeste;95,9;0,2;Pretos ou pardos;Homens;25 a 64 anos de idade
+2016;Sul;95,1;0,4;Pretos ou pardos;Homens;25 a 64 anos de idade
+2016;Centro-Oeste;94,6;0,3;Pretos ou pardos;Homens;25 a 64 anos de idade
+2016;Norte;66,2;2,3;Pretos ou pardos;Homens;65 anos ou mais de idade
+2016;Nordeste;51,2;1,9;Pretos ou pardos;Homens;65 anos ou mais de idade
+2016;Sudeste;81,5;1,3;Pretos ou pardos;Homens;65 anos ou mais de idade
+2016;Sul;78,1;2,3;Pretos ou pardos;Homens;65 anos ou mais de idade
+2016;Centro-Oeste;72;2,3;Pretos ou pardos;Homens;65 anos ou mais de idade
+2016;Norte;98,8;0,4;Brancos;Mulheres;15 a 24 anos de idade
+2016;Nordeste;99,1;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2016;Sudeste;99,6;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2016;Sul;99,6;0,1;Brancos;Mulheres;15 a 24 anos de idade
+2016;Centro-Oeste;99,6;0,2;Brancos;Mulheres;15 a 24 anos de idade
+2016;Norte;95,4;0,5;Brancos;Mulheres;25 a 64 anos de idade
+2016;Nordeste;91,9;0,4;Brancos;Mulheres;25 a 64 anos de idade
+2016;Sudeste;98,6;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2016;Sul;98,2;0,1;Brancos;Mulheres;25 a 64 anos de idade
+2016;Centro-Oeste;97,5;0,3;Brancos;Mulheres;25 a 64 anos de idade
+2016;Norte;76,4;2,8;Brancos;Mulheres;65 anos ou mais de idade
+2016;Nordeste;67,4;1,8;Brancos;Mulheres;65 anos ou mais de idade
+2016;Sudeste;89;0,7;Brancos;Mulheres;65 anos ou mais de idade
+2016;Sul;90;0,6;Brancos;Mulheres;65 anos ou mais de idade
+2016;Centro-Oeste;81,9;1,7;Brancos;Mulheres;65 anos ou mais de idade
+2016;Norte;98,9;0,2;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2016;Nordeste;99,1;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2016;Sudeste;99,7;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2016;Sul;100;0;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2016;Centro-Oeste;99,9;0,1;Pretos ou pardos;Mulheres;15 a 24 anos de idade
+2016;Norte;92,4;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2016;Nordeste;86,7;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2016;Sudeste;96;0,2;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2016;Sul;94,9;0,4;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2016;Centro-Oeste;94,9;0,3;Pretos ou pardos;Mulheres;25 a 64 anos de idade
+2016;Norte;62,6;2,6;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2016;Nordeste;52,5;1,7;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2016;Sudeste;75;1,3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2016;Sul;66,8;3,3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
+2016;Centro-Oeste;70,6;2,3;Pretos ou pardos;Mulheres;65 anos ou mais de idade
