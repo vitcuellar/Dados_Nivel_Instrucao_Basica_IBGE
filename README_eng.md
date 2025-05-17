@@ -1,5 +1,7 @@
 # Basic Education Level Dashboard in Brazil
 
+[![Leia em Português](https://img.shields.io/badge/Leia%20em-Português-blue)](README_eng.md)
+
 ## Context
 IBGE (Brazilian Institute of Geography and Statistics) is one of the largest information providers in the country.
 In addition to offering an API resource for open data consumption, it is also possible to find other data resulting from research and statistical analyses conducted by the Institute.
