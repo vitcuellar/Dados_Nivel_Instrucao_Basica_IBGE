@@ -1,6 +1,6 @@
 # Basic Education Level Dashboard in Brazil
 
-[![Leia em Português](https://img.shields.io/badge/Leia%20em-Português-blue)](README_eng.md)
+[![Leia em Português](https://img.shields.io/badge/Leia%20em-Português-blue)](README.md)
 
 ## Context
 IBGE (Brazilian Institute of Geography and Statistics) is one of the largest information providers in the country.
