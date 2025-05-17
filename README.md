@@ -1,5 +1,7 @@
 # Painel de Nível de Instrução Básica no Brasil 
 
+[![Read in English](https://img.shields.io/badge/Read%20in-English-blue)](README_eng.md)
+
 ## Contexto
   O IBGE (Instituto Brasileiro de Geografia e Estatística) é um dos maiores provedores de informação no território nacional. 
 Além da disponibilização de um recurso de API para consumo de dados abertos, também é possível encontrar outros dados resultados de pesquisas e análises estatísticas
